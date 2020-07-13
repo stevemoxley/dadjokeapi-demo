@@ -6,7 +6,7 @@ public class DadJokeSearch {
     public int next_page;
     public int previous_page;
     public DadJoke[] results;
-    public String searchTerm;
+    public String search_Term;
     public int status;
     public int total_jokes;
     public int total_pages;
